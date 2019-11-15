@@ -54,7 +54,7 @@
     <dependency>
       <groupId>com.mchange</groupId>
       <artifactId>c3p0</artifactId>
-      <version>0.9.5.2</version>
+      <version>0.9.5.4</version>
     </dependency>
 <!--最好以上面的形式导入依赖，不然可能访问数据库的时候会出现500错误-->
     <!--<dependency>
