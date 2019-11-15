@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="jdbcconnection" />
+        <module name="mybatis_base" />
+        <module name="mybatis_base_anno" />
+        <module name="mybatis_base_more2more_xml" />
+        <module name="mybatis_base_more2one_xml" />
+        <module name="mybatis_base_one2more_xml" />
+        <module name="mybatis_base_one2one_anno" />
+        <module name="mybatis_base_one2one_xml" />
+        <module name="ssm" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="jdbcconnection" target="1.7" />
+      <module name="mybatis_base" target="1.7" />
+      <module name="mybatis_base_anno" target="1.7" />
+      <module name="mybatis_base_more2more_xml" target="1.7" />
+      <module name="mybatis_base_more2one_xml" target="1.7" />
+      <module name="mybatis_base_one2more_xml" target="1.7" />
+      <module name="mybatis_base_one2one_anno" target="1.7" />
+      <module name="mybatis_base_one2one_xml" target="1.7" />
+      <module name="ssm" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

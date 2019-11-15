@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/jdbcconnection/jdbcconnection.iml" filepath="$PROJECT_DIR$/jdbcconnection/jdbcconnection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatis_base/mybatis_base.iml" filepath="$PROJECT_DIR$/mybatis_base/mybatis_base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatis_base_anno/mybatis_base_anno.iml" filepath="$PROJECT_DIR$/mybatis_base_anno/mybatis_base_anno.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatis_base_more2more_xml/mybatis_base_more2more_xml.iml" filepath="$PROJECT_DIR$/mybatis_base_more2more_xml/mybatis_base_more2more_xml.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatis_base_more2one_xml/mybatis_base_more2one_xml.iml" filepath="$PROJECT_DIR$/mybatis_base_more2one_xml/mybatis_base_more2one_xml.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatis_base_one2more_xml/mybatis_base_one2more_xml.iml" filepath="$PROJECT_DIR$/mybatis_base_one2more_xml/mybatis_base_one2more_xml.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatis_base_one2one_anno/mybatis_base_one2one_anno.iml" filepath="$PROJECT_DIR$/mybatis_base_one2one_anno/mybatis_base_one2one_anno.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatis_base_one2one_xml/mybatis_base_one2one_xml.iml" filepath="$PROJECT_DIR$/mybatis_base_one2one_xml/mybatis_base_one2one_xml.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssm/ssm.iml" filepath="$PROJECT_DIR$/ssm/ssm.iml" />
+    </modules>
+  </component>
+</project>

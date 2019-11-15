@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="mybatis_base_more2one_xml:war">
+    <output-path>$PROJECT_DIR$/mybatis_base_more2one_xml/target</output-path>
+    <root id="archive" name="mybatis_base_more2one_xml.war">
+      <element id="artifact" artifact-name="mybatis_base_more2one_xml:war exploded" />
+    </root>
+  </artifact>
+</component>

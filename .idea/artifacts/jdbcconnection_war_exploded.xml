@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="jdbcconnection:war exploded">
+    <output-path>$PROJECT_DIR$/jdbcconnection/target/jdbcconnection</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="jdbcconnection" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/jdbcconnection/target/jdbcconnection/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="jdbcconnection/web/Web" />
+    </root>
+  </artifact>
+</component>

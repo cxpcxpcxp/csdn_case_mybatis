@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/jdbcconnection" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mybatis_base" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mybatis_base_anno" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mybatis_base_more2more_xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mybatis_base_more2one_xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mybatis_base_one2more_xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mybatis_base_one2one_anno" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mybatis_base_one2one_xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mybatis_moretable_xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ssm" charset="UTF-8" />
+  </component>
+</project>

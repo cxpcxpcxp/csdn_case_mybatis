@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://D:/4.ZhuoMianFile/Desktop/ssm整合/ssm_springmvc+spring/ssm" />
+    <file type="web" url="file://$PROJECT_DIR$/jdbcconnection" />
+    <file type="web" url="file://$PROJECT_DIR$/mybatis_base" />
+    <file type="web" url="file://$PROJECT_DIR$/mybatis_base_anno" />
+    <file type="web" url="file://$PROJECT_DIR$/mybatis_base_more2more_xml" />
+    <file type="web" url="file://$PROJECT_DIR$/mybatis_base_more2one_xml" />
+    <file type="web" url="file://$PROJECT_DIR$/mybatis_base_one2more_xml" />
+    <file type="web" url="file://$PROJECT_DIR$/mybatis_base_one2one_anno" />
+    <file type="web" url="file://$PROJECT_DIR$/mybatis_base_one2one_xml" />
+    <file type="web" url="file://$PROJECT_DIR$/mybatis_moretable_xml" />
+    <file type="web" url="file://$PROJECT_DIR$/ssm" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/mybatis_base/pom.xml" />
+        <option value="$PROJECT_DIR$/mybatis_base_anno/pom.xml" />
+        <option value="$PROJECT_DIR$/mybatis_base_one2one_xml/pom.xml" />
+        <option value="$PROJECT_DIR$/mybatis_base_one2more_xml/pom.xml" />
+        <option value="$PROJECT_DIR$/mybatis_base_more2one_xml/pom.xml" />
+        <option value="$PROJECT_DIR$/mybatis_base_more2more_xml/pom.xml" />
+        <option value="$PROJECT_DIR$/mybatis_base_one2one_anno/pom.xml" />
+        <option value="$PROJECT_DIR$/ssm/pom.xml" />
+        <option value="$PROJECT_DIR$/jdbcconnection/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
